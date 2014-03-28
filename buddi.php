@@ -3,7 +3,7 @@
  * Buddi ( http://buddi.digitalcave.ca/ ) currency converter
  *
  * PHP version: 5.1
- * @author     Endijs Lisovskis <endijs@lsovskis.com>
+ * @author     Endijs Lisovskis <endijs@lisovskis.com>
  * @copyright  2013 Endijs Lisovskis <endijs@lisovskis.com>
  *
  * This simple PHP script was created to convert Buddi data XML from one currency to another. Buddi internally does not allow to specify
